@@ -4,11 +4,32 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text=""
+        tools:layout_editor_absoluteX="363dp"
+        tools:layout_editor_absoluteY="1dp" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:text="我的圈子"
+        tools:layout_editor_absoluteX="18dp"
+        tools:layout_editor_absoluteY="43dp" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:text="好友私聊"
+        tools:layout_editor_absoluteX="213dp"
+        tools:layout_editor_absoluteY="43dp" />
+
     <ImageButton
         android:id="@+id/first"
         android:layout_width="86dp"
         android:layout_height="69dp"
-        android:src="@drawable/黑白爱心"
+        android:src="@drawable/彩色爱心"
         tools:layout_editor_absoluteX="3dp"
         tools:layout_editor_absoluteY="663dp" />
 
@@ -24,7 +45,7 @@
         android:id="@+id/third"
         android:layout_width="79dp"
         android:layout_height="72dp"
-        android:src="@drawable/彩色男女"
+        android:src="@drawable/黑白男女"
         tools:layout_editor_absoluteX="168dp"
         tools:layout_editor_absoluteY="663dp" />
 

@@ -4,11 +4,49 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="<"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="138dp" />
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="搜索ip角色"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="138dp" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="ip:"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="223dp" />
+
+
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="223dp" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="确认"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="548dp" />
+
     <ImageButton
         android:id="@+id/first"
         android:layout_width="86dp"
         android:layout_height="69dp"
-        android:src="@drawable/黑白爱心"
+        android:src="@drawable/彩色爱心"
         tools:layout_editor_absoluteX="3dp"
         tools:layout_editor_absoluteY="663dp" />
 
@@ -24,7 +62,7 @@
         android:id="@+id/third"
         android:layout_width="79dp"
         android:layout_height="72dp"
-        android:src="@drawable/彩色男女"
+        android:src="@drawable/黑白男女"
         tools:layout_editor_absoluteX="168dp"
         tools:layout_editor_absoluteY="663dp" />
 

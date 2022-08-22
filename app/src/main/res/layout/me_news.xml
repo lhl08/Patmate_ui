@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="404dp"
+        android:layout_height="150dp"
+        android:src="@drawable/示例背景2"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="4dp"
+        android:scaleType="fitXY"/>
+
+
+    <TextView
+        android:layout_width="170dp"
+        android:layout_height="34dp"
+        android:autoSizeTextType="uniform"
+        android:text="idididididid"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="272dp" />
+
+    <TextView
+        android:layout_width="170dp"
+        android:layout_height="34dp"
+        android:autoSizeTextType="uniform"
+        android:text="虚拟金币"
+        tools:layout_editor_absoluteX="241dp"
+        tools:layout_editor_absoluteY="272dp" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="个人主页>"
+        tools:layout_editor_absoluteX="311dp"
+        tools:layout_editor_absoluteY="204dp" />
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="我的标签1"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="316dp" />
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="我的标签2"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="316dp" />
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="我的标签3"
+        tools:layout_editor_absoluteX="218dp"
+        tools:layout_editor_absoluteY="316dp" />
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="+"
+        tools:layout_editor_absoluteX="311dp"
+        tools:layout_editor_absoluteY="316dp" />
+
+    <TextView
+        android:layout_width="192dp"
+        android:layout_height="31dp"
+        android:autoSizeTextType="uniform"
+        android:text="名字名字名字"
+        tools:layout_editor_absoluteX="14dp"
+        tools:layout_editor_absoluteY="225dp" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="125dp"
+        android:src="@drawable/示例头像"/>
+
+    <TextView
+        android:layout_width="243dp"
+        android:layout_height="65dp"
+        android:autoSizeTextType="uniform"
+        android:text="内容内容内容内容内容1111111111111111111111111111111111"
+        tools:layout_editor_absoluteX="12dp"
+        tools:layout_editor_absoluteY="376dp" />
+
+    <TextView
+        android:layout_width="73dp"
+        android:layout_height="23dp"
+        android:autoSizeTextType="uniform"
+        android:text="评论：15"
+        tools:layout_editor_absoluteX="182dp"
+        tools:layout_editor_absoluteY="441dp" />
+
+    <TextView
+        android:layout_width="73dp"
+        android:layout_height="23dp"
+        android:autoSizeTextType="uniform"
+        android:text="点赞：50"
+        tools:layout_editor_absoluteX="12dp"
+        tools:layout_editor_absoluteY="441dp" />
+
+    <ImageView
+        android:layout_width="98dp"
+        android:layout_height="90dp"
+        android:src="@drawable/示例背景"
+        tools:layout_editor_absoluteX="264dp"
+        tools:layout_editor_absoluteY="374dp" />
+
+    <Button
+        android:layout_width="43dp"
+        android:layout_height="88dp"
+        android:autoSizeTextType="uniform"
+        android:text=">"
+        tools:layout_editor_absoluteX="366dp"
+        tools:layout_editor_absoluteY="376dp" />
+
+    <ImageView
+        android:layout_width="98dp"
+        android:layout_height="90dp"
+        android:src="@drawable/示例背景"
+        tools:layout_editor_absoluteX="264dp"
+        tools:layout_editor_absoluteY="471dp" />
+
+    <Button
+        android:layout_width="43dp"
+        android:layout_height="88dp"
+        android:autoSizeTextType="uniform"
+        android:text=">"
+        tools:layout_editor_absoluteX="366dp"
+        tools:layout_editor_absoluteY="473dp" />
+
+    <TextView
+        android:layout_width="73dp"
+        android:layout_height="23dp"
+        android:autoSizeTextType="uniform"
+        android:text="评论：15"
+        tools:layout_editor_absoluteX="182dp"
+        tools:layout_editor_absoluteY="538dp" />
+
+    <TextView
+        android:layout_width="73dp"
+        android:layout_height="23dp"
+        android:autoSizeTextType="uniform"
+        android:text="点赞：50"
+        tools:layout_editor_absoluteX="12dp"
+        tools:layout_editor_absoluteY="538dp" />
+
+    <TextView
+        android:layout_width="243dp"
+        android:layout_height="65dp"
+        android:autoSizeTextType="uniform"
+        android:text="内容内容内容内容内容1111111111111111111111111111111111"
+        tools:layout_editor_absoluteX="12dp"
+        tools:layout_editor_absoluteY="473dp" />
+    <ImageView
+        android:layout_width="98dp"
+        android:layout_height="90dp"
+        android:src="@drawable/示例背景"
+        tools:layout_editor_absoluteX="264dp"
+        tools:layout_editor_absoluteY="573dp" />
+
+    <TextView
+        android:layout_width="243dp"
+        android:layout_height="65dp"
+        android:autoSizeTextType="uniform"
+        android:text="内容内容内容内容内容1111111111111111111111111111111111"
+        tools:layout_editor_absoluteX="12dp"
+        tools:layout_editor_absoluteY="575dp" />
+
+    <TextView
+        android:layout_width="73dp"
+        android:layout_height="23dp"
+        android:autoSizeTextType="uniform"
+        android:text="评论：15"
+        tools:layout_editor_absoluteX="182dp"
+        tools:layout_editor_absoluteY="640dp" />
+
+    <TextView
+        android:layout_width="73dp"
+        android:layout_height="23dp"
+        android:autoSizeTextType="uniform"
+        android:text="点赞：50"
+        tools:layout_editor_absoluteX="12dp"
+        tools:layout_editor_absoluteY="640dp" />
+
+    <Button
+        android:layout_width="43dp"
+        android:layout_height="88dp"
+        android:autoSizeTextType="uniform"
+        android:text=">"
+        tools:layout_editor_absoluteX="366dp"
+        tools:layout_editor_absoluteY="575dp" />
+
+    <ImageButton
+        android:id="@+id/first"
+        android:layout_width="86dp"
+        android:layout_height="69dp"
+        android:src="@drawable/黑白爱心"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="663dp" />
+
+    <ImageButton
+        android:id="@+id/second"
+        android:layout_width="79dp"
+        android:layout_height="69dp"
+        android:src="@drawable/黑白管理院"
+        tools:layout_editor_absoluteX="89dp"
+        tools:layout_editor_absoluteY="663dp" />
+
+    <ImageButton
+        android:id="@+id/third"
+        android:layout_width="79dp"
+        android:layout_height="72dp"
+        android:src="@drawable/黑白男女"
+        tools:layout_editor_absoluteX="168dp"
+        tools:layout_editor_absoluteY="663dp" />
+
+    <ImageButton
+        android:id="@+id/fourth"
+        android:layout_width="73dp"
+        android:layout_height="72dp"
+        android:src="@drawable/黑白商城"
+        tools:layout_editor_absoluteX="247dp"
+        tools:layout_editor_absoluteY="663dp" />
+
+    <ImageButton
+        android:id="@+id/fifth"
+        android:layout_width="61dp"
+        android:layout_height="69dp"
+        android:src="@drawable/彩色眼镜"
+        tools:layout_editor_absoluteX="320dp"
+        tools:layout_editor_absoluteY="663dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:src="@drawable/示例背景2"
+        android:layout_width="416dp"
+        android:layout_height="161dp"
+        tools:layout_editor_absoluteX="-6dp"
+        tools:layout_editor_absoluteY="4dp"
+        android:scaleType="fitXY"/>
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="我的标签1"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="316dp" />
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="我的标签2"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="316dp" />
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="我的标签3"
+        tools:layout_editor_absoluteX="218dp"
+        tools:layout_editor_absoluteY="316dp" />
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="+"
+        tools:layout_editor_absoluteX="311dp"
+        tools:layout_editor_absoluteY="316dp" />
+
+    <TextView
+        android:layout_width="170dp"
+        android:layout_height="34dp"
+        android:autoSizeTextType="uniform"
+        android:text="idididididid"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="272dp" />
+
+    <TextView
+        android:layout_width="170dp"
+        android:layout_height="34dp"
+        android:autoSizeTextType="uniform"
+        android:text="虚拟金币"
+        tools:layout_editor_absoluteX="241dp"
+        tools:layout_editor_absoluteY="272dp" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="个人主页>"
+        tools:layout_editor_absoluteX="311dp"
+        tools:layout_editor_absoluteY="204dp" />
+
+    <TextView
+        android:layout_width="192dp"
+        android:layout_height="31dp"
+        android:autoSizeTextType="uniform"
+        android:text="名字名字名字"
+        tools:layout_editor_absoluteX="14dp"
+        tools:layout_editor_absoluteY="225dp" />
+
+    <ImageView
+        android:src="@drawable/示例头像"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="125dp"/>
+
+
+    <EditText
+        android:layout_width="239dp"
+        android:layout_height="47dp"
+        android:hint="请输入关键字……"
+        tools:layout_editor_absoluteX="89dp"
+        tools:layout_editor_absoluteY="380dp" />
+
+    <ImageButton
+        android:id="@+id/first"
+        android:layout_width="86dp"
+        android:layout_height="69dp"
+        android:src="@drawable/黑白爱心"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="663dp" />
+
+
+    <Button
+        android:layout_width="71dp"
+        android:layout_height="38dp"
+        android:autoSizeTextType="uniform"
+        android:text="保存"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="551dp" />
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="35dp"
+        android:autoSizeTextType="uniform"
+        android:text="取消"
+        tools:layout_editor_absoluteX="255dp"
+        tools:layout_editor_absoluteY="551dp" />
+
+    <ImageButton
+        android:id="@+id/second"
+        android:layout_width="79dp"
+        android:layout_height="69dp"
+        android:src="@drawable/黑白管理院"
+        tools:layout_editor_absoluteX="89dp"
+        tools:layout_editor_absoluteY="663dp" />
+
+    <ImageButton
+        android:id="@+id/third"
+        android:layout_width="79dp"
+        android:layout_height="72dp"
+        android:src="@drawable/黑白男女"
+        tools:layout_editor_absoluteX="168dp"
+        tools:layout_editor_absoluteY="663dp" />
+
+    <ImageButton
+        android:id="@+id/fourth"
+        android:layout_width="73dp"
+        android:layout_height="72dp"
+        android:src="@drawable/黑白商城"
+        tools:layout_editor_absoluteX="247dp"
+        tools:layout_editor_absoluteY="663dp" />
+
+    <ImageButton
+        android:id="@+id/fifth"
+        android:layout_width="61dp"
+        android:layout_height="69dp"
+        android:src="@drawable/彩色眼镜"
+        tools:layout_editor_absoluteX="320dp"
+        tools:layout_editor_absoluteY="663dp" />
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="标签1"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="429dp" />
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="标签2"
+        tools:layout_editor_absoluteX="143dp"
+        tools:layout_editor_absoluteY="429dp" />
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="标签3"
+        tools:layout_editor_absoluteX="241dp"
+        tools:layout_editor_absoluteY="429dp" />
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="标签4"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="479dp" />
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:autoSizeTextType="uniform"
+        android:text="标签5"
+        tools:layout_editor_absoluteX="143dp"
+        tools:layout_editor_absoluteY="479dp" />

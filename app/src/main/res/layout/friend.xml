@@ -4,35 +4,40 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <ImageView
+    <ImageButton
+        android:id="@+id/first"
         android:layout_width="86dp"
         android:layout_height="69dp"
         android:src="@drawable/黑白爱心"
         tools:layout_editor_absoluteX="3dp"
         tools:layout_editor_absoluteY="663dp" />
 
-    <ImageView
+    <ImageButton
+        android:id="@+id/second"
         android:layout_width="79dp"
         android:layout_height="69dp"
         android:src="@drawable/彩色管理院"
         tools:layout_editor_absoluteX="89dp"
         tools:layout_editor_absoluteY="663dp" />
 
-    <ImageView
+    <ImageButton
+        android:id="@+id/third"
         android:layout_width="79dp"
         android:layout_height="72dp"
         android:src="@drawable/黑白男女"
         tools:layout_editor_absoluteX="168dp"
         tools:layout_editor_absoluteY="663dp" />
 
-    <ImageView
+    <ImageButton
+        android:id="@+id/fourth"
         android:layout_width="73dp"
         android:layout_height="72dp"
         android:src="@drawable/黑白商城"
         tools:layout_editor_absoluteX="247dp"
         tools:layout_editor_absoluteY="663dp" />
 
-    <ImageView
+    <ImageButton
+        android:id="@+id/fifth"
         android:layout_width="61dp"
         android:layout_height="69dp"
         android:src="@drawable/黑白眼睛"

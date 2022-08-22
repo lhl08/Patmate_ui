@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="<"
+        android:autoSizeTextType="uniform"
+        tools:layout_editor_absoluteX="88dp"
+        tools:layout_editor_absoluteY="264dp" />
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:autoSizeTextType="uniform"
+        android:text="搜索ID"
+        tools:layout_editor_absoluteX="258dp"
+        tools:layout_editor_absoluteY="264dp" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:autoSizeTextType="uniform"
+        android:text="ID:"
+        tools:layout_editor_absoluteX="78dp"
+        tools:layout_editor_absoluteY="440dp" />
+
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="150dp"
+        tools:layout_editor_absoluteX="315dp"
+        tools:layout_editor_absoluteY="440dp" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="150dp"
+        android:autoSizeTextType="uniform"
+        android:text="搜索"
+        tools:layout_editor_absoluteX="348dp"
+        tools:layout_editor_absoluteY="880dp" />
+
+    <ImageButton
+        android:id="@+id/fifth"
+        android:layout_width="156dp"
+        android:layout_height="152dp"
+        android:src="@drawable/黑白眼睛"
+        tools:layout_editor_absoluteX="777dp"
+        tools:layout_editor_absoluteY="1466dp" />
+
+    <ImageButton
+        android:id="@+id/second"
+        android:layout_width="149dp"
+        android:layout_height="146dp"
+        android:src="@drawable/黑白管理院"
+        tools:layout_editor_absoluteX="331dp"
+        tools:layout_editor_absoluteY="1469dp" />
+
+    <ImageButton
+        android:id="@+id/first"
+        android:layout_width="140dp"
+        android:layout_height="143dp"
+        android:src="@drawable/彩色爱心"
+        tools:layout_editor_absoluteX="191dp"
+        tools:layout_editor_absoluteY="1472dp" />
+
+    <ImageButton
+        android:id="@+id/third"
+        android:layout_width="160dp"
+        android:layout_height="152dp"
+        android:src="@drawable/黑白男女"
+        tools:layout_editor_absoluteX="480dp"
+        tools:layout_editor_absoluteY="1466dp" />
+
+    <ImageButton
+        android:id="@+id/fourth"
+        android:layout_width="137dp"
+        android:layout_height="149dp"
+        android:src="@drawable/黑白商城"
+        tools:layout_editor_absoluteX="640dp"
+        tools:layout_editor_absoluteY="1466dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
